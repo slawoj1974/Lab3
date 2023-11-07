@@ -34,6 +34,7 @@ public class Rower {
     }
     // Metoda drukowania obiektu
     public void drukuj() {
+        System.out.println();
         System.out.println("Dane techniczne roweru: ");
         System.out.println("Typ: " + typ);
         System.out.println("Nazwa: " + nazwa);
